@@ -1,0 +1,1 @@
+import {getScore} from "./lib/TennisGame";
